@@ -1,7 +1,7 @@
 AdnanArdiansyah / README.md
 ---
 
-<h1 align="center">Hi 👋, I'm Adnan</h1>
+<h1 align="center">Hi 👋, I'm Adnan Adriansyah</h1>
 
 <p align="center">
 Dedicated full-stack web developer from Polytechnic State of Lhokseumawe. Proficient in HTML, CSS, JavaScript, and Laravel Framework. Experienced in building, maintaining websites, and skilled in problem-solving. Fast learner, enthusiastic about taking on new challenges. Committed to delivering high-quality work on time, with a focus on client satisfaction.
