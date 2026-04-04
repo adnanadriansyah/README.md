@@ -1,4 +1,4 @@
-AdnanArdiansyah / README.md
+AdnanArdiansyah
 ---
 
 <h1 align="center">Hi 👋, I'm Adnan Adriansyah</h1>
